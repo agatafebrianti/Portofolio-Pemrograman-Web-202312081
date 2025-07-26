@@ -8,3 +8,4 @@
 - [Modul 4 - Javascript Dasar](./Modul4)
 - [Modul 5 - DOM & Event](./Modul5)
 - [Modul 6 - Form Validation](./Modul6)
+Berikut Link Vidio Penjelasannya : https://youtu.be/0eg2_3YwJ7k
